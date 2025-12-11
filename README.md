@@ -19,7 +19,7 @@ OmniConvert AI is a professional, modern web application designed to solve every
 
 Experience the power of OmniConvert AI instantly:
 
-**[👉 Click here to visit doodax.com](https://doodax.com)** _(Opens in new tab)_
+**[👉 Click here to visit doodax.com](https://doodax.com/tools/omniconvert-ai/index.html)** _(Opens in new tab)_
 
 ## 📂 Project Structure
 
