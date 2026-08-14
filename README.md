@@ -1,17 +1,21 @@
 <div align="center">
-# 🚀 Omniconvert Ai
-### *High-Performance Autonomous Intelligence & Modular TypeScript Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Omniconvert%20Ai&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Omniconvert Ai Header Banner" />
+
+  <h1>🚀 Omniconvert Ai</h1>
+  <p><em>High-Performance Autonomous Intelligence & Modular TypeScript Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev/OmniConvert-AI"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Omniconvert Ai** is an enterprise-grade artificial intelligence solution engineered for low-latency reasoning, deterministic workflow automation, and high-accuracy data orchestration. Built with modern **TypeScript** and **TypeScript**, it delivers modular architecture and seamless developer ergonomics.
@@ -24,83 +28,13 @@
 - **Developer-First APIs**: Type-safe interfaces with comprehensive observability.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# OmniConvert AI (doodax.com) 🚀
-
-**The Ultimate AI-Powered File Conversion Toolkit.**
-
-
-OmniConvert AI is a professional, modern web application designed to solve everyday file manipulation problems with the power of Artificial Intelligence. Built with React 19, TypeScript, and the Google Gemini 2.5 Flash API, it offers military-grade security and a user-friendly "Galaxy" themed interface.
-
-## 🌟 Key Features
-
--   **AI OCR (Optical Character Recognition):** Extract text from JPG/PNG images using Google Gemini 2.5 Flash models. High accuracy for handwriting and complex layouts.
--   **PDF Tools:** Merge, Split, Compress, and Convert PDF files.
--   **Image Converter:** Transform between JPG, PNG, WEBP, and HEIC formats.
--   **Privacy First:** All conversions happen securely. No file retention.
--   **Immersive UI:** A fully responsive, galaxy-themed interface with glassmorphism effects and smooth animations.
--   **SEO Optimized:** Fully structured with JSON-LD Schema, robots.txt, and sitemap.xml.
-
-## 🚀 LIVE DEMO
-
-Experience the power of OmniConvert AI instantly:
-
-**[👉 Click here to visit doodax.com](https://doodax.com/tools/omniconvert-ai/index.html)** _(Opens in new tab)_
-
-## 📂 Project Structure
-
-```bash
-OmniConvert-AI/
-├── public/              # Static assets (favicons, SEO files)
-│   ├── robots.txt       # Search engine directives
-│   ├── sitemap.xml      # Site map for crawlers
-│   └── favicon.svg      # App Icon
-├── components/          # React Components
-│   ├── GalaxyBackground.tsx # CSS Animation Galaxy Background
-│   ├── SeoContent.tsx   # Rich SEO Blog module with Read More toggle
-│   ├── LegalModal.tsx   # Legal popup with Caution disclaimer
-│   ├── ToolGrid.tsx     # Main dashboard with glassmorphism cards
-│   ├── ConverterView.tsx # Active tool interface (Dark mode)
-│   └── icons/           # SVG Icons
-├── services/
-│   └── geminiService.ts # AI Integration logic (Gemini 2.5)
-├── types.ts             # TypeScript definitions
-├── constants.ts         # Tool configurations
-├── App.tsx              # Main Application Entry & Layout
-└── index.html           # HTML Root with Metadata & Tailwind Config
-```
-
-## 🛠 Tech Stack
-
--   **Frontend:** React 19, TypeScript, Vite
--   **Styling:** Tailwind CSS (Custom Config for animations)
--   **AI Engine:** Google GenAI SDK (Gemini 2.5 Flash)
--   **Icons:** Heroicons
-
-## 🔒 Privacy & Security
-
-OmniConvert AI operates on a **privacy-first** principle.
--   We do not store user files.
--   Processing is done securely via encrypted channels or locally via Wasm.
--   We comply with standard Google Policies.
-
-
-**Powered by HSINI MOHAMED**
--   GitHub: [hsinidev](https://github.com/hsinidev)
--   Website: [doodax.com](https://doodax.com)
-
----
-
-&copy; 2024 OmniConvert AI. All rights reserved.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
